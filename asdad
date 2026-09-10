@@ -1,0 +1,3 @@
+node server.js in terminal
+ngrok http 8080 --url https://jaunt-happiness-tinsmith.ngrok-free.dev
+sign in to ngrok with kujosgmail
